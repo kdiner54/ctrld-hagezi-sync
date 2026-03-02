@@ -3,4 +3,12 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-a
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/dyndns-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-aggressive-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-xiaomi-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-lgwebos-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-apple-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/apple-private-relay-allow-folder.json
