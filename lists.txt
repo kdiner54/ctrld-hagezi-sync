@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tra
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/apple-private-relay-allow-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json
