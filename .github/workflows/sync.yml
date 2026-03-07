@@ -1,7 +1,10 @@
 name: Sync
 
 on:
-  workflow_dispatch:
+  push:
+    paths:
+      - 'lists.txt'      # Lance la sync dès que tu modifies tes listes
+  workflow_dispatch:     # Permet le lancement manuel
 
 jobs:
   sync:
